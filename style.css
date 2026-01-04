@@ -79,7 +79,7 @@ header {
 
     min-height: 90vh;
     color: white;
-    background: url(пооп.jpg) no-repeat center/cover;
+    background: url("folder/2.jpeg") no-repeat center/cover;
     text-shadow: 2px 2px 5px black;
 }
 
